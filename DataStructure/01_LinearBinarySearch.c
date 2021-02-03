@@ -15,7 +15,7 @@ int LinearSearch(int arr[], int size, int element)
     return -1;
 }
 
-// LinearSearch applies only on sorted Array //
+// BinarySearch applies only on sorted Array //
       // Function For Binary Search //
 int BinarySearch(int arr[], int size, int element)
 {
